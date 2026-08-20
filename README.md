@@ -104,7 +104,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ### Visão Geral
 
-Este repositório contém o código desenvolvido durante um projeto de PIBIC (Programa Institucional de Bolsas de Iniciação Científica), sob orientação do **Prof. Madeiro**, focado na classificação de **8 categorias de doenças/estruturas gastrointestinais (GI)** a partir de imagens endoscópicas. O trabalho replica e estende a arquitetura proposta em:
+Este repositório contém o código desenvolvido durante um projeto de PIBIC (Programa Institucional de Bolsas de Iniciação Científica), focado na classificação de **8 categorias de doenças/estruturas gastrointestinais (GI)** a partir de imagens endoscópicas. O trabalho replica e estende a arquitetura proposta em:
 
 > Hosny, M., Elgendy, I. A., & Albashrawi, M. A. (2026). *Beyond transfer learning: Attention-enhanced deep learning framework for multiclass gastrointestinal disease classification.* Expert Systems With Applications, 295, 128852. https://doi.org/10.1016/j.eswa.2025.128852
 
