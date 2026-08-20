@@ -1,6 +1,6 @@
 # 🩺 GI Disease Classification with DenseNet201 + Attention Mechanisms
 
-> Undergraduate research project (PIBIC), under the supervision of **Prof. Madeiro**, exploring deep learning architectures — Inception modules, Residual blocks, Squeeze-and-Excitation attention, and Global Context blocks — for multiclass gastrointestinal (GI) disease classification from endoscopic images, with a comparative study of regularization techniques (Weight Decay and Dropout).
+> Undergraduate research project (PIBIC), exploring deep learning architectures — Inception modules, Residual blocks, Squeeze-and-Excitation attention, and Global Context blocks — for multiclass gastrointestinal (GI) disease classification from endoscopic images, with a comparative study of regularization techniques (Weight Decay and Dropout).
 
 🇧🇷 [Leia em Português](#-classificação-de-doenças-gastrointestinais-com-densenet201--mecanismos-de-atenção)
 
@@ -90,7 +90,7 @@ kagglehub
 
 ### Acknowledgements
 
-This project was developed as part of a PIBIC undergraduate research program, under the supervision of **Prof. Madeiro**, replicating and extending the IRA-DenseNet201 architecture proposed by Hosny et al. (2026).
+This project was developed as part of a PIBIC undergraduate research program, replicating and extending the IRA-DenseNet201 architecture proposed by Hosny et al. (2026).
 
 ### License
 
